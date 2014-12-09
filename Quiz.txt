@@ -1,0 +1,20 @@
+F In a multi-dimensional array length refers to the number of columns?
+T Using the printf function %.2f is a nice and easy way to round a pay rate?
+T Conflicts in naming will take the local value first?
+T There was a file name "Stripping" that we used in class?
+F j2brownseder@bridgew.edu is the professors email address?
+T An array can hold multiple values of the same data type simultaneously?
+F ++ and -- are operators that add and subtract two from their operands?
+T Coke Zero is Professor Brown-Sederberg's favorite beverage?
+T Java is an object oriented language?
+F Epi-pens do not create any pain to ones self?
+T Justin Himmighoefer created this Java T/F Quiz?
+T Java technology was invented by Sun Microsystems?
+F Java programming is dependent on specific platforms?
+F Binary code is comprised of all 0's and 9's?
+T A Scanner class can be imported to allow for user's input of data?
+T The Java API is a great tool to utilize when searching for reliable Java programming answers?
+F Class starts at 7pm sharp?
+T There have been document cases of pop quizes being given when attendance is an issue?
+F Hacking into government secured websites is a good idea with no consequences?
+T I am 1/11 kids in my parents family?
